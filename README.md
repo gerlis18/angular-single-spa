@@ -3,7 +3,7 @@
 Integración de [single-spa](https://single-spa.js.org/docs/ecosystem-angular/) con [angular](https://angular.io) 9 
 
 ## Demo:
-https://angular-single-spa.herokuapp.com/
+https://single-spa-angular.herokuapp.com/
 
 ```
 /
