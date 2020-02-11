@@ -1,6 +1,6 @@
 [submodule "app2"]
 	path = app2
-	url = https://github.com/gerlis18/app2-angular-spa.git
+	url = https://git.heroku.com/app2-single-spa.git
 [submodule "app1"]
 	path = app1
 	url = https://github.com/gerlis18/app1-angular-spa.git
