@@ -1,0 +1,3 @@
+[submodule "app2"]
+	path = app2
+	url = https://git.heroku.com/app2-single-spa.git
